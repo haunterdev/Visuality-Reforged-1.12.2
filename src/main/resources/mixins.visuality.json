@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.7.11",
+  "package": "plus.dragons.visuality.mixin",
+  "plugin": "plus.dragons.visuality.mixin.VisualityMixinPlugin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.visuality.refmap.json",
+  "client": [
+    "MixinBlock",
+    "MixinBlockLiquid",
+    "MixinEntitySlime"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

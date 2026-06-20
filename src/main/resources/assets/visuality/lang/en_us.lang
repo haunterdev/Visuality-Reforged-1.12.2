@@ -1,0 +1,12 @@
+visuality.config.title=Visuality Config
+visuality.config.general=General
+visuality.config.slime=Slime Blobs Enabled
+visuality.config.charge=Charge Particle Enabled
+visuality.config.sparkle=Sparkle Particle Enabled
+visuality.config.soul=Soul Particle Enabled
+visuality.config.waterCircle=Water Circles Enabled
+visuality.config.waterCircle.colored=Water Circles Colored
+visuality.config.waterCircle.density=Water Circles Density
+visuality.config.hitParticles=Hit Particles Enabled
+visuality.config.shinyArmor=Shiny Armor Enabled
+visuality.config.shinyBlocks=Shiny Blocks Enabled

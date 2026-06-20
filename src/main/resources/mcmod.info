@@ -1,0 +1,16 @@
+[
+{
+    "modid": "visuality",
+    "name": "Visuality: Reforged",
+    "description": "Little visual improvements by adding a bunch of new particles. Client-side cosmetic mod.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/visuality-forge",
+    "updateUrl": "",
+    "authorList": ["PinkGoosik", "LimonBlaze", "XY (1.12.2 port)"],
+    "credits": "PinkGoosik for the original Visuality, LimonBlaze for the Forge port.",
+    "logoFile": "pack.png",
+    "screenshots": [],
+    "dependencies": []
+}
+]
