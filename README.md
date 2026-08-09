@@ -1,14 +1,13 @@
 <div align="center">
   <img src="src/main/resources/pack.png" width="120" alt="Visuality icon"/>
 
-  <h1>Visuality: Reforged (1.12.2 Forge)</h1>
+  <h1>Visuality: Reforged</h1>
 
   <p>Little visual improvements that add a bunch of new ambient particles. Client side and cosmetic only.</p>
 </div>
 
-A 1.12.2 port of Visuality, originally by PinkGoosik (Fabric) and ported to
-modern Forge as Visuality: Reforged by LimonBlaze. The look and behaviour of the original are
-preserved, rebuilt on the 1.12.2.
+A 1.12.2 port of Visuality, originally by PinkGoosik (Fabric) and brought to
+modern Forge as Visuality: Reforged by LimonBlaze.
 
 ## Features
 
