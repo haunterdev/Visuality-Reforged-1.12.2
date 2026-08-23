@@ -7,7 +7,7 @@
     "mcversion": "${mcversion}",
     "url": "https://www.curseforge.com/minecraft/mc-mods/visuality-forge",
     "updateUrl": "",
-    "authorList": ["PinkGoosik", "LimonBlaze", "XY (1.12.2 port)"],
+    "authorList": ["PinkGoosik", "LimonBlaze", "xy (1.12.2 port)"],
     "credits": "PinkGoosik for the original Visuality, LimonBlaze for the Forge port.",
     "logoFile": "pack.png",
     "screenshots": [],
