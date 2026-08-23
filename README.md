@@ -31,7 +31,7 @@ Everything is client side.
 ## Installation
 
 1. Install Minecraft Forge for 1.12.2.
-2. Drop MixinBooter and `visuality-1.1.0.jar` into your `mods` folder.
+2. Put MixinBooter and `visuality-1.1.0.jar` into your `mods` folder.
 3. Launch the game.
 
 ## Known issues
